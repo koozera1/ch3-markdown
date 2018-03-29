@@ -1,6 +1,8 @@
 # Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+> “They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.”
+Benjamin Franklin
 
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+The following link provides more quotes and information
+
+ https://www.forbes.com/sites/jeffreydorfman/2014/07/04/20-quotes-on-liberty-and-freedom-in-honor-of-independence-day/#5ff021fe45b7
